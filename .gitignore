@@ -1,0 +1,7 @@
+tmptests/
+cross-pi-gcc-10.3.0-0/
+
+covidTrace_ARM32
+covidTrace
+.gdb_history
+test_queue.c
